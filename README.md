@@ -10,7 +10,7 @@ Before you report an issue, please consider these simple rules:
 Select one of the templates below which best describes your issue/report:
 
 1. [Feedback](https://github.com/Memerator/Website/issues/new?template=feature_request.md)
-2. [Bug/Issue Report](https://github.com/Memerator/Website/issues/new?template=BUG_TEMPLATE.md)
+2. [Bug/Issue Report](https://github.com/Memerator/Website/issues/new?template=bug_report.md)
 
 ## Rating a Report or a Comment
 
